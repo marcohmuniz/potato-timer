@@ -1,0 +1,24 @@
+{
+  "name": "potato-timer",
+  "version": "1.0.0",
+  "description": "A clone of tomato-timer.com",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcohmuniz/potato-timer.git"
+  },
+  "author": "marcohmuniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcohmuniz/potato-timer/issues"
+  },
+  "homepage": "https://github.com/marcohmuniz/potato-timer#readme"
+}
